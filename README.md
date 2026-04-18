@@ -45,21 +45,13 @@
 - Exploring **MLOps, Cloud AI, and Computer Vision**
 - Open Source Contributions
 
----
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: www.linkedin.com/in/ambar-shukla
-- 📧 Email: yourmail@example.com
-- 🌍 Portfolio: https://yourportfolio.com
+- 💼 LinkedIn: www.linkedin.com/in/digambar-shukla-692679255
+- 📧 Email: DigambarShukla02@gmail.com
+- 🌍 Portfolio: 
 
 ---
 
