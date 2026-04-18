@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Ambar Shukla
+# Hi there 👋, I'm Digambar Shukla
 
 ### Software Engineer @ Capgemini | AI & ML Enthusiast | Problem Solver
 
